@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "terminal.integrated.env.windows": {
+        "MONGO_URI": "mongodb+srv://root:<95123654789>@myfirstcluster-iqbtq.mongodb.net/myTestDB?retryWrites=true&w=majority"
+      },
+      "python.linting.pylintEnabled": true,
+      "python.linting.enabled": true
+}
